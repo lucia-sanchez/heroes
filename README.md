@@ -16,3 +16,9 @@ Nombre: Maxi
 Apellido: Alonso
 Edad: 35
 Ciudad: Monte Grande 
+
+
+Nombre:Yesica Lucia
+Apellido: Sánchez
+Edad: 32
+Ciudad: Mar del Plata 
